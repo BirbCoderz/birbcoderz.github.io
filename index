@@ -10,8 +10,8 @@
     <body>
         <nav>
             <ul>
-            <li><a href="Home.html">Home</a></li>
-            <li><a href="About.html">About</a></li>
+            <li><a href="index">Home</a></li>
+            <li><a href="about">About</a></li>
             </ul>
         </nav>
         <h1>Welcome to my webpage!</h1>
