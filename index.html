@@ -1,13 +1,23 @@
+<!DOCTYPE HTML>
 <html>
     <head>
         <title>Home</title>
     </head>
     <body>
-        <nav>
-            <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="about.html">About</a></li>
+        <nav class="navbar background">
+            <!-- we have used list tag that is ul 
+                 to list the items-->
+            <ul class="nav-list">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
             </ul>
+            <!-- we have used rightnav in order to design
+                 the seachbar properly by using CSS-->
+            <div class="rightNav">
+          <!-- the value that search bar will take is text -->
+                <input type="text" name="search" id="search" />
+                <button class="btn btn-sm">Search</button>
+            </div>
         </nav>
         <h1>Welcome to my webpage!</h1>
         <h4>I made this from scratch, using a simple text editor.</h4>
