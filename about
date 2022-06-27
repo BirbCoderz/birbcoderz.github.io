@@ -11,10 +11,9 @@
     <body>
         <nav>
             <ul>
-            <li><a href="index.html">Home</a></li>
             <li><a href="about">About</a></li>
             </ul>
         </nav>
-        <h1>Welcome to my webpage!</h1>
+        <h1>Test</h1>
     </body>
 </html>
