@@ -5,8 +5,8 @@
     </head>
     <body>
         <nav>
-            <a href="index.html">Index</a>
-            <a href="about.html">About</a>
+            <a href="index">Index</a>
+            <a href="about">About</a>
         </nav>
         <h1>Home</h1>
         <h4>This is a Github Pages page.</h4>
