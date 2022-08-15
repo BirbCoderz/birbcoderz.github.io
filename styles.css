@@ -60,4 +60,31 @@ nav a{
 }
 
 
+/* Heading */
+h2{
+ position:relative;
+ top:-74px;
+ left:0px;
+ font-family:"Hind", sans-serif;
+ color:#c6c6c6;
+}
+
+/* Heading */
+h4:nth-child(5){
+ top:-113px;
+}
+
+/* Heading */
+h2:nth-child(6){
+ top:-134px;
+}
+
+/* Heading */
+h4:nth-child(8){
+ top:-172px;
+}
+
+
+
+
 /*No Code Beyond Here/*
