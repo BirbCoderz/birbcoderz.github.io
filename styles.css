@@ -10,7 +10,7 @@ nav a img{
 /* Navigation */
 nav{
  transform:translatex(0px) translatey(0px);
- font-family:"Hind";
+ font-family:"Hind", sans-serif;
  text-decoration:none;
  text-align:left;
  direction:ltr;
@@ -29,7 +29,7 @@ body{
 
 /* Heading */
 h1{
- font-family:"Hind";
+ font-family:"Hind", sans-serif;
  color:#c6c6c6;
  position:relative;
  top:-44px;
@@ -39,7 +39,7 @@ h1{
 
 /* Heading */
 h4{
- font-family:"Hind";
+ font-family:"Hind", sans-serif;
  font-weight:500;
  color:#c6c6c6 !important;
  position:relative;
