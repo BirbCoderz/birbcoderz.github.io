@@ -1,3 +1,4 @@
+/* Visual CSS Editor used */
 /* Import Google Fonts */
 @import url("//fonts.googleapis.com/css2?family=Heebo:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap");
 
@@ -86,6 +87,20 @@ h4:nth-child(8){
  top:-172px;
 }
 
+/* Heading */
+h4{
+ pointer-events:none;
+}
+
+/* Heading */
+h2{
+ pointer-events:none;
+}
+
+/* Heading */
+h1{
+ pointer-events:none;
+}
 
 
 
