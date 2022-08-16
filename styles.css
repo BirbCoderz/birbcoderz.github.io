@@ -23,11 +23,10 @@ nav{
 
 /* Body */
 body{
- margin-top:0px;
- margin-left:0px;
- margin-right:0px;
- margin-bottom:0px;
- background-color:#0a0a0a;
+ background-image:url("https://images.unsplash.com/photo-1560595643-90bb555b2eaa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MXxzZWFyY2h8MXx8YnVkZ2llfGVufDB8fHx8MTY2MDYxMjQ5Mw&ixlib=rb-1.2.1&q=80&w=2560");
+ backdrop-filter:blur(5.18px);
+ background-size:cover;
+ min-height:748px;
 }
 
 /* Heading */
