@@ -114,6 +114,19 @@ body{
  margin-bottom:0px;
 }
 
+/* Link */
+h4 a{
+ color:#ffffff;
+ text-decoration:none;
+ font-weight:700;
+}
+
+/* Heading */
+h4{
+ margin-bottom:12px;
+ margin-top:12px;
+}
+
 
 
 /* No CSS Beyond Here */
