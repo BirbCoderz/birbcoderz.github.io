@@ -37,17 +37,20 @@ body{
 h1{
  font-family:'SanFrancisco';
  font-weight:700;
+ color:#c6c6c6;
 }
 
 h4{
  font-family:'SanFrancisco';
  font-weight:400;
+ color:#c6c6c6;
 }
 
 /* Link */
 h4 a{
  color:#b6b2f5;
  text-decoration:none;
+ font-family: 'SanFrancisco';
 }
 
 /* Fonts */
