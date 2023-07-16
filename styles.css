@@ -20,9 +20,35 @@ nav{
 
 /* Body */
 body{
- background-image:url("https://images.unsplash.com/photo-1560595643-90bb555b2eaa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MXxzZWFyY2h8MXx8YnVkZ2llfGVufDB8fHx8MTY2MDYxMjQ5Mw&ixlib=rb-1.2.1&q=80&w=2560");
+ margin-left:0px;
+ margin-right:0px;
+ margin-top:0px;
+ margin-bottom:0px;
+ background-size:cover;
+ background-attachment:fixed;
+ background-repeat:no-repeat;
+ color:#c6c6c6;
+ background-color:#424242;
+ font-family:'SanFrancisco';
+ line-height:20px;
 }
 
+/* Heading */
+h1{
+ font-family:'SanFrancisco';
+ font-weight:700;
+}
+
+h4{
+ font-family:'SanFrancisco';
+ font-weight:400;
+}
+
+/* Link */
+h4 a{
+ color:#b6b2f5;
+ text-decoration:none;
+}
 
 /* Fonts */
 
