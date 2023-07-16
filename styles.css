@@ -131,13 +131,13 @@ h4{
 @font-face {
   font-family: SanFrancisco;
   src: url(SF-Pro-Display-Semibold.otf);
-  font-weight: regular;
+  font-weight: normal;
  
 }
 
 @font-face {
-  font-family: myFirstFont;
-  src: url(sansation_bold.woff);
+  font-family: SanFrancisco;
+  src: url(SF-pro-Display-Heavy.otf);
   font-weight: bold;
 }
 /* No CSS Beyond Here */
