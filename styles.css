@@ -1,6 +1,3 @@
-/* Import Google Fonts */
-@import url("//fonts.googleapis.com/css2?family=Heebo:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap");
-
 /* Image */
 nav a img{
  display:inline-block;
@@ -13,7 +10,7 @@ nav a img{
 /* Navigation */
 nav{
  transform:translatex(0px) translatey(0px);
- font-family:"Hind", sans-serif;
+ font-family:"SanFrancisco";
  text-decoration:none;
  text-align:left;
  direction:ltr;
@@ -25,13 +22,13 @@ nav{
 body{
  background-image:url("https://images.unsplash.com/photo-1560595643-90bb555b2eaa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MXxzZWFyY2h8MXx8YnVkZ2llfGVufDB8fHx8MTY2MDYxMjQ5Mw&ixlib=rb-1.2.1&q=80&w=2560");
  backdrop-filter:blur(5.18px);
- background-size:cover;
+ background-size:contain;
  min-height:748px;
 }
 
 /* Heading */
 h1{
- font-family:"Hind", sans-serif;
+ font-family:"SanFrancisco";
  color:#c6c6c6;
  position:relative;
  top:-44px;
@@ -41,7 +38,7 @@ h1{
 
 /* Heading */
 h4{
- font-family:"Hind", sans-serif;
+ font-family:"SanFrancisco";
  font-weight:500;
  color:#c6c6c6 !important;
  position:relative;
@@ -67,60 +64,47 @@ h2{
  position:relative;
  top:-74px;
  left:0px;
- font-family:"Hind", sans-serif;
+ font-family:"SanFrancisco";
  color:#c6c6c6;
 }
 
-/* Heading */
 h4:nth-child(5){
  top:-113px;
 }
 
-/* Heading */
 h2:nth-child(6){
  top:-134px;
 }
 
-/* Heading */
 h4:nth-child(8){
  top:-172px;
 }
 
-/* Heading */
 h4{
  pointer-events:none;
 }
 
-/* Heading */
 h2{
  pointer-events:none;
 }
 
-/* Heading */
 h1{
  pointer-events:none;
 }
 
-/* Body */
 body{
- min-height:100%;
- padding-bottom:0px;
- width:3840px;
- height:2160px;
  margin-left:0px;
  margin-right:0px;
  margin-top:0px;
  margin-bottom:0px;
 }
 
-/* Link */
 h4 a{
  color:#ffffff;
  text-decoration:none;
  font-weight:700;
 }
 
-/* Heading */
 h4{
  margin-bottom:12px;
  margin-top:12px;
