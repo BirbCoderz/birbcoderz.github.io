@@ -36,6 +36,6 @@ body{
 @font-face {
   font-family: SanFrancisco;
   src: url(SF-pro-Display-Heavy.otf);
-  font-weight: bold;
+  font-weight: 700;
 }
 /* No CSS Beyond Here */
