@@ -21,8 +21,6 @@ nav{
 /* Body */
 body{
  background-image:url("https://images.unsplash.com/photo-1560595643-90bb555b2eaa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MXxzZWFyY2h8MXx8YnVkZ2llfGVufDB8fHx8MTY2MDYxMjQ5Mw&ixlib=rb-1.2.1&q=80&w=2560");
- backdrop-filter:blur(7px);
- background-size:contain;
 }
 
 
